@@ -12,7 +12,7 @@ I’m a **Software Engineering student at Florida Gulf Coast University** passio
 - **🎮 GSO Quiz Platform:** A Socrative-inspired quiz system for national academic tournaments.
 
 ### 🧠 Tech I work with
-`C++` · `Python` · `JavaScript` · `Node.js` · `Express.js` · `React Native` · `SQL` · `AWS` · `Git/GitHub`
+`C++` · `Python` · `JavaScript` · `Node.js` · `Express.js` · `React Native` · `SQL` · `AWS` · `Git/GitHub` · `PHP`
 
 ### 🚀 Current goals
 - Strengthen my backend architecture and cloud deployment skills.  
