@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there, I’m Lujens Pierre
 
-<!--
-**Lujens/Lujens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineering student at Florida Gulf Coast University** passionate about building products that make real-world systems smarter and simpler. I love turning ideas into working software — whether it’s a **fintech platform** that automates savings, a **quiz app** that powers national competitions, or a **database system** that helps manage food distribution on campus.
 
-Here are some ideas to get you started:
+💡 I enjoy working across the stack — from backend logic in **Node.js + Express** to building beautiful frontends with **React Native**.  
+📊 I’m also fascinated by fintech, automation, and tools that empower people through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m working on
+- **🎧 BoomBox:** A cross-platform music-matching app built with React Native + Expo set to launch on the App Store early 2026.  
+- **💳 LIFE Pay:** A prototype fintech platform for digital deposits and loans with over 300 beta testers.  
+- **🍎 Food Pantry - Eagle Expo Project:** A database management system for FGCU’s campus food pantry.  
+- **🎮 GSO Quiz Platform:** A Socrative-inspired quiz system for national academic tournaments.
+
+### 🧠 Tech I work with
+`C++` · `Python` · `JavaScript` · `Node.js` · `Express.js` · `React Native` · `SQL` · `AWS` · `Git/GitHub`
+
+### 🚀 Current goals
+- Strengthen my backend architecture and cloud deployment skills.  
+- Build projects that combine technical precision with social impact.  
+- Land a **Software Engineering internship** where I can learn from industry-scale systems.
+
+### 🌐 Connect with me
+📫 [lujensgjpierre@gmail.com](mailto:lujensgjpierre@gmail.com)  
+💼 [linkedin.com/in/lujensp](https://linkedin.com/in/lujensp)  
+💻 [github.com/Lujens](https://github.com/Lujens)
+
+> *“Technology should simplify life — not complicate it.”*
