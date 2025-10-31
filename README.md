@@ -7,7 +7,7 @@ I’m a **Software Engineering student at Florida Gulf Coast University** passio
 
 ### 🔭 What I’m working on
 - **🎧 BoomBox:** A cross-platform music-matching app built with React Native + Expo set to launch on the App Store early 2026.  
-- **💳 LIFE Pay:** A prototype fintech platform for digital deposits and loans with over 300 beta testers.  
+- **💳 LIFE Pay:** A prototype fintech platform for digital deposits and loans with over 500 beta testers.  
 - **🍎 Food Pantry - Eagle Expo Project:** A database management system for FGCU’s campus food pantry.  
 - **🎮 GSO Quiz Platform:** A Socrative-inspired quiz system for national academic tournaments.
 
